@@ -1,0 +1,8 @@
+Project : Langages à objets avancés (LOA)
+Binôme : Jérôme Skoda - Joaquim Lefranc
+
+
+Lancement d'un jeu : 
+---------------------------
+-> Dans la racine du dossier
+make run jeu=[taquin|sobokan|2048|2048-variante[1-4]|2048-allvariante] joueur=[humain|robot] grille=[4-200]
