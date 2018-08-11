@@ -1,6 +1,10 @@
 Project : Langages à objets avancés (LOA)
 Binôme : Jérôme Skoda - Joaquim Lefranc
 
+Requirement :
+---------------------------
+sudo apt-get install libsfml-dev
+
 
 Lancement d'un jeu : 
 ---------------------------
